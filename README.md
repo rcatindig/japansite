@@ -1,4 +1,10 @@
+# Reynard Catindig
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Purpose of the Project
+
+This project is coding exam for Bizmates
 
 ## Available Scripts
 
