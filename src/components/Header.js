@@ -12,8 +12,8 @@ class Header extends Component {
                 <nav id="nav">
                     <ul>
                         <li><Link to={'/redirect'}>Home</Link></li>
-                        <li><Link to={'/redirect/tourist-spot'}>Tourist Spots</Link></li>
                         <li><Link to={'/redirect/weather'}>Weather</Link></li>
+                        <li><Link to={'/redirect/tourist-spot'}>Tourist Spots</Link></li>
                     </ul>
                 </nav>
             </header>
