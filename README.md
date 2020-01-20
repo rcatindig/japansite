@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is coding exam for Bizmates
 
+### For weather forecast
+http://localhost:3000/#/weather
+
+### For tourist spot information
+http://localhost:3000/#/tourist-spot
+
 ## Available Scripts
 
 In the project directory, you can run:
