@@ -13,6 +13,7 @@ class Header extends Component {
                     <ul>
                         <li><Link to={'/redirect'}>Home</Link></li>
                         <li><Link to={'/redirect/weather'}>Weather</Link></li>
+                        <li><Link to={'/redirect/venue'}>Venue</Link></li>
                         <li><Link to={'/redirect/tourist-spot'}>Tourist Spots</Link></li>
                     </ul>
                 </nav>
